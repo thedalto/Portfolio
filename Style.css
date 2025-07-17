@@ -1,0 +1,41 @@
+body{
+  background-color:#F9F9F9;
+  font-family: Courier;
+}
+img{
+  width: 250px;
+  height: 250px;
+  border-radius: 350px;
+  display:flex;
+  margin: auto;
+  border: solid ;
+  border-color:#e0e0e0;
+  object-fit: cover;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+}
+
+p{
+  text-align: center;
+  text-size:60px;
+}
+button{
+  display: flex;
+  margin:auto;
+  justify-content: center;
+  background-color:#Ffffff;
+  width: 300px;
+  font-size: 30px;
+  border-radius:30px;
+  border:1 px solid ;
+  border-color:#e0e0e0 ;
+  color:#000000;
+  padding: 10px 20px;
+}
+
+a{
+  text-decoration: none;
+}
